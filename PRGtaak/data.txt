@@ -1,0 +1,17 @@
+﻿1,Drink,Coka-Cola,SoftDrink,500ml,12.50,400
+2,Drink,Coka-Cola,SoftDrink,1l,18.90,100
+3,Drink,Coka-Cola,SoftDrink,2l,21.50,300
+4,Drink,CreamSoda,SoftDrink,500ml,13.50,400
+5,Drink,CreamSoda,SoftDrink,1l,19.90,100
+6,Drink,CreamSoda,SoftDrink,2l,23.50,300
+7,Drink,Dragon,EnergyDrink,500ml,10,200
+8,Drink,Monster,EnergyDrink,500ml,25.90,100
+9,Drink,RedBull,EnergyDrink,500ml,23.50,300
+10,Food,Bread,bread,fullLoaf,12.40,50
+11,Food,Ham,Meat,1kg,30,30
+12,Food,Chips Simba,maize,120g,16.50,200
+13,Food,Chips Simba,maize,300g,30,99,100
+14,Other,LuckyPacket,Misc,small,20,50
+15,Other,LuckyPacket,Misc,medium,25,50
+16,Other,LuckyPacket,Misc,Larg,30,50
+17,Other,CheapToy,Misc,Badly made Doll,20,6
